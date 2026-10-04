@@ -41,7 +41,7 @@ ia-na-pista/
 ├── README.md
 │
 ├── audio/
-│   └── ia-na-pista.mp3
+│   └── ElevenLabs_2026-10-03T04_18_51_Carlos - Resonant & Majestic Storyteller_pvc_sp100_s72_sb100_v4 (1).mp3
 │
 ├── capa/
 │   └── ia-na-pista.png
