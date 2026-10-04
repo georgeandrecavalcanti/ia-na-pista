@@ -31,7 +31,7 @@ O episódio final está disponível neste repositório.
 
 A identidade visual do projeto foi criada utilizando Inteligência Artificial.
 
-![Capa do projeto](./capa/Corrida%20Futurista_F1%20e%20GT-R.png)
+.![Capa do projeto](./capa/ia-na-pista.png))
 
 ## 📝 Prompts
 
@@ -47,6 +47,6 @@ ia-na-pista/
 ├── audio/
 │   └── ia-na-pista.mp3
 ├── capa/
-│   └── Corrida Futurista_ F1 e GT‑R.png
+│   └── ia-na-pista.png
 └── prompts/
     └── prompts.md
