@@ -31,8 +31,7 @@ O episódio final está disponível neste repositório.
 
 A identidade visual do projeto foi criada utilizando Inteligência Artificial.
 
-![Capa do projeto](./capa/Corrida Futurista_ F1 e GT‑R.png)
-
+![Capa do projeto](./capa/Corrida%20Futurista_F1%20e%20GT-R.png)
 ## 📝 Prompts
 
 Os prompts utilizados durante o desenvolvimento do projeto estão disponíveis na pasta [`prompts`](./prompts).
