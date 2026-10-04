@@ -31,7 +31,7 @@ O episódio final está disponível neste repositório.
 
 A identidade visual do projeto foi criada utilizando Inteligência Artificial.
 
-.![Capa do projeto](./capa/ia-na-pista.png))
+.![Capa do projeto](./capa/ia-na-pista.png)
 
 ## 📝 Prompts
 
