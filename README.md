@@ -31,6 +31,8 @@ O episódio final está disponível neste repositório.
 
 A identidade visual do projeto foi criada utilizando Inteligência Artificial.
 
+![Capa do projeto](./capa/ia-na-pista.png)
+
 ## 📝 Prompts
 
 Os prompts utilizados durante o desenvolvimento do projeto estão disponíveis na pasta [`prompts`](./prompts).
