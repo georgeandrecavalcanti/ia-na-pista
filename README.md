@@ -48,6 +48,5 @@ ia-na-pista/
 │   └── ia-na-pista.mp3
 ├── capa/
 │   └── Corrida Futurista_ F1 e GT‑R.png
-│
 └── prompts/
     └── prompts.md
