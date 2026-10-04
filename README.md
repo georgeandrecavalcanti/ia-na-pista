@@ -23,6 +23,8 @@ Demonstrar, por meio de um projeto prático, como diferentes ferramentas de Inte
 
 O episódio final está disponível neste repositório.
 
+🎧 **[Ouvir o podcast](./audio/ia-na-pista.mp3)**
+
 **Tema:** F1, Carros e Inteligência Artificial
 
 ## 🖼️ Capa
